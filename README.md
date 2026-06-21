@@ -2,13 +2,17 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:1D4ED8,100:06B6D4&text=Leonardo%20Dorado%20Martinez&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=Full%20Stack%20Software%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20Backend%20%26%20Integrations&descAlignY=58&descSize=15" />
+# Leonardo Dorado Martínez
+
+### Full Stack Software Developer
+
+Web & Mobile · Backend · APIs · Microservicios · Integraciones · DevOps
 
 </div>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Plataformas+web+y+moviles;Backend%2C+APIs%2C+microservicios+e+integraciones;Angular+%2B+NestJS+%2B+Node.js+%2B+Flutter;Docker+%2B+Cloudflare+%2B+produccion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Construyendo+plataformas+web+y+moviles;Backend%2C+APIs%2C+microservicios+e+integraciones;Angular+%2B+NestJS+%2B+Node.js+%2B+Flutter;Docker+%2B+Cloudflare+%2B+produccion" />
 
 </div>
 
@@ -28,6 +32,14 @@
   <a href="https://aevoryka.com/">
     <img src="https://img.shields.io/badge/Aevoryka-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
   </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Leonardoodm&label=Profile%20views&color=38BDF8&style=for-the-badge" />
 
 </div>
 
@@ -206,21 +218,13 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 
 <div align="center">
 
-## 📈 GitHub Stats
+## 📈 Actividad en GitHub
 
 </div>
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leonardoodm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img height="165" src="https://streak-stats.demolab.com?user=Leonardoodm&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardoodm&theme=react-dark&hide_border=true&bg_color=020617&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1D4ED8" />
 
 </div>
 
@@ -228,7 +232,17 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoodm&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Leonardoodm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoodm&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img width="60%" src="https://streak-stats.demolab.com?user=Leonardoodm&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8" />
 
 </div>
 
@@ -258,8 +272,12 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 
 </div>
 
+<br />
+
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1D4ED8,100:020617" />
+  <sub>
+    Desarrollando soluciones web, móviles y backend con enfoque en producto, operación e infraestructura.
+  </sub>
 
 </div>
