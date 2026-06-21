@@ -35,14 +35,6 @@ Web & Mobile · Backend · APIs · Microservicios · Integraciones · DevOps
 
 </div>
 
-<br />
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Leonardoodm&label=Profile%20views&color=38BDF8&style=for-the-badge" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -114,6 +106,45 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 
 <div align="center">
 
+## ⚙️ Tecnologías principales
+
+</div>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/NestJS-020617?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Angular-020617?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Redis-020617?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🏗️ Lo que he construido
 
 </div>
@@ -154,13 +185,13 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
     <td width="50%" align="center">
       <h3>Facturación y pagos</h3>
       <p>
-        Módulos de ventas, facturación electrónica ante el SAT, integración con SW Sapien y procesamiento de pagos con Mercado Pago.
+        Módulos de ventas, facturación electrónica ante el SAT, integración con servicios de timbrado y procesamiento de pagos.
       </p>
     </td>
     <td width="50%" align="center">
       <h3>Validación documental</h3>
       <p>
-        Flujos para alta de usuarios, validación de documentos con AWS Textract y firma electrónica de contratos mediante eFirma.
+        Flujos para alta de usuarios, validación de documentos, extracción de información y firma electrónica de contratos.
       </p>
     </td>
   </tr>
@@ -175,6 +206,45 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
       <h3>Geolocalización y trazabilidad</h3>
       <p>
         Sistemas con evidencia fotográfica, georreferenciación, rutas, rastreo GPS y control de acceso por roles.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧩 Perfil técnico
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Desarrollo de producto</h3>
+      <p>
+        Capacidad para participar en flujos completos: análisis, implementación, integración, pruebas, despliegue y mejora continua.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Arquitectura backend</h3>
+      <p>
+        Diseño de módulos, separación de responsabilidades, servicios, validaciones, control de errores y estructura mantenible.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Integración de servicios</h3>
+      <p>
+        Conexión con APIs externas, servicios de pago, facturación, validación documental, mapas y procesos automatizados.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Operación en producción</h3>
+      <p>
+        Experiencia con despliegues, contenedores, configuración de entornos, dominios, túneles, servidores y servicios web.
       </p>
     </td>
   </tr>
@@ -211,38 +281,6 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=850&lines=Arquitectura+backend+limpia+y+escalable;Microservicios+y+servicios+distribuidos;Docker%2C+Linux+y+despliegues+en+produccion;Kubernetes+y+fundamentos+DevOps;CI%2FCD+e+infraestructura+moderna" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Actividad en GitHub
-
-</div>
-
-<div align="center">
-
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardoodm&theme=react-dark&hide_border=true&bg_color=020617&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1D4ED8" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Leonardoodm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoodm&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img width="60%" src="https://streak-stats.demolab.com?user=Leonardoodm&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8" />
 
 </div>
 
