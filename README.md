@@ -2,26 +2,26 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:2563EB,100:06B6D4&text=Leonardo%20Dorado&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Desarrollador%20Fullstack%20%7C%20Backend%20%7C%20DevOps%20Learner&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:1D4ED8,100:06B6D4&text=Leonardo%20Dorado&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Backend%20%7C%20DevOps%20%7C%20Aevoryka&descAlignY=58&descSize=16" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=DESARROLLADOR+FULLSTACK;BACKEND+%2B+FRONTEND+%2B+DEVOPS;CREANDO+SISTEMAS+REALES;DOCKER+%2B+KUBERNETES+%2B+CLOUD;AEVORYKA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Construyendo+sistemas+web+reales;Frontend+%2B+Backend+%2B+DevOps;APIs%2C+dashboards%2C+POS+e+infraestructura;Docker+%2B+Linux+%2B+Kubernetes+%2B+Cloudflare;Transformando+ideas+en+productos+digitales" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ldorado360">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ldorado360@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leonardddorado/">
-    <img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aevoryka.com/">
-    <img src="https://img.shields.io/badge/Web-Aevoryka-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Aevoryka-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
   </a>
 </p>
 
@@ -29,23 +29,61 @@
 
 <div align="center">
 
-## Sobre mí
+## 👋 Sobre mí
 
 </div>
 
-Soy desarrollador fullstack enfocado en crear aplicaciones web funcionales, mantenibles y listas para producción.
+Soy desarrollador **Fullstack** enfocado en crear aplicaciones web funcionales, escalables y listas para producción.
 
-* Desarrollo aplicaciones con frontend, backend, bases de datos, APIs e infraestructura.
-* Trabajo con sistemas reales como plataformas POS, paneles administrativos, inventarios, ventas, permisos, autenticación e integraciones.
-* Me interesa construir soluciones limpias, escalables y útiles para negocios reales.
-* Actualmente estoy fortaleciendo mis habilidades en DevOps, Docker, Linux, Kubernetes, CI/CD, Cloudflare y despliegues en VPS.
-* Me gusta cuidar la arquitectura, la experiencia de usuario, el rendimiento, la seguridad y la automatización.
+Me gusta construir sistemas que no solo se vean bien, sino que también tengan una arquitectura clara, una base sólida en backend, flujos de negocio bien pensados y una infraestructura preparada para crecer.
+
+Actualmente trabajo y aprendo sobre desarrollo de software desde una visión completa:
+**frontend, backend, bases de datos, APIs, despliegue, servidores, Docker, Linux, Cloudflare y Kubernetes.**
 
 ---
 
 <div align="center">
 
-## Stack tecnológico
+## 🚀 En qué me enfoco
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Frontend</h3>
+      <p align="center">
+        Interfaces modernas, dashboards, paneles administrativos, componentes reutilizables, formularios, tablas, filtros y experiencia de usuario.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Backend</h3>
+      <p align="center">
+        APIs REST, autenticación, autorización, roles, permisos, validaciones, integraciones, modelos de datos y lógica de negocio.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">DevOps</h3>
+      <p align="center">
+        Docker, Linux, Nginx, Cloudflare Tunnel, VPS, variables de entorno, logs, despliegues y flujos de producción.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Productos digitales</h3>
+      <p align="center">
+        POS, inventarios, ventas, órdenes de compra, reportes, cashback, herramientas internas y plataformas administrativas.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧰 Stack tecnológico
 
 </div>
 
@@ -57,36 +95,32 @@ Soy desarrollador fullstack enfocado en crear aplicaciones web funcionales, mant
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&color=0:020617,50:1D4ED8,100:0E7490&text=Lo%20que%20construyo&fontColor=FFFFFF&fontSize=34&fontAlignY=45" />
+## 🏗️ Lo que construyo
 
 </div>
 
+<p align="center">
+  Me gusta crear soluciones completas: desde la interfaz que usa el usuario, hasta la lógica del backend, la base de datos y el despliegue en producción.
+</p>
+
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Aplicaciones Frontend</h3>
-      <p align="center">
-        Interfaces modernas, dashboards, paneles administrativos, formularios, tablas, filtros y flujos de negocio.
+    <td align="center" width="33%">
+      <h3>🧾 Sistemas POS</h3>
+      <p>
+        Ventas, inventarios, clientes, productos, pagos, cortes, reportes y administración.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Sistemas Backend</h3>
-      <p align="center">
-        APIs REST, autenticación, autorización, roles, permisos, validaciones, modelos de datos e integraciones.
+    <td align="center" width="33%">
+      <h3>📊 Dashboards</h3>
+      <p>
+        Paneles administrativos, métricas, tablas, filtros, acciones y flujos internos.
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">DevOps y despliegue</h3>
-      <p align="center">
-        Aplicaciones dockerizadas, servidores Linux, Nginx, Cloudflare Tunnel, VPS, variables de entorno, logs y despliegues.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Plataformas de negocio</h3>
-      <p align="center">
-        POS, inventarios, ventas, órdenes de compra, reportes, campañas, cashback, herramientas internas y automatización.
+    <td align="center" width="33%">
+      <h3>🔐 Backends</h3>
+      <p>
+        APIs, seguridad, permisos, roles, autenticación, validaciones e integraciones.
       </p>
     </td>
   </tr>
@@ -96,74 +130,75 @@ Soy desarrollador fullstack enfocado en crear aplicaciones web funcionales, mant
 
 <div align="center">
 
-## Proyecto destacado
+## 🌐 Aevoryka
 
 </div>
 
-<div align="center">
-
+<p align="center">
   <a href="https://aevoryka.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visitar%20sitio-aevoryka.com-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=111827" />
+    <img src="https://img.shields.io/badge/Visitar%20Aevoryka-aevoryka.com-1D4ED8?style=for-the-badge&logo=rocket&logoColor=white&labelColor=020617" />
   </a>
-
-</div>
+</p>
 
 <p align="center">
-  Aevoryka es mi espacio para construir soluciones web, sistemas personalizados, plataformas administrativas y productos digitales enfocados en negocios reales.
+  Aevoryka es mi espacio para crear soluciones web, sistemas personalizados, plataformas administrativas y productos digitales enfocados en negocios reales.
 </p>
 
 ---
 
 <div align="center">
 
-## Enfoque actual
+## 📌 Actualmente aprendiendo y mejorando
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Mejorando+arquitectura+backend;Aprendiendo+Kubernetes+y+DevOps;Desplegando+apps+en+produccion;Construyendo+sistemas+limpios+y+escalables;Trabajando+con+Docker+y+Linux" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=900&lines=Arquitectura+backend+limpia+y+escalable;Buenas+practicas+con+Docker+y+Linux;Kubernetes+y+fundamentos+DevOps;CI%2FCD+y+automatizacion+de+despliegues;Infraestructura+para+aplicaciones+reales" />
 </p>
 
 ---
 
 <div align="center">
 
-## Estadísticas de GitHub
+## 📈 GitHub Stats
 
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ldorado360&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=2563EB&currStreakLabel=22D3EE" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ldorado360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldorado360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ldorado360&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldorado360&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldorado360&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
 </p>
 
 ---
 
 <div align="center">
 
-## Contacto
+## 🤝 Contacto
 
 </div>
 
 <p align="center">
-  Abierto a construir sistemas web modernos, dashboards, APIs, herramientas internas, plataformas administrativas y productos listos para producción.
+  Abierto a crear sistemas web, dashboards, APIs, herramientas internas, plataformas administrativas y soluciones listas para producción.
 </p>
 
 <p align="center">
   <a href="mailto:ldorado360@gmail.com">
-    <img src="https://img.shields.io/badge/Construyamos%20algo-2563EB?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/Construyamos%20algo-1D4ED8?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardddorado/">
+    <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:2563EB,100:111827" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:1D4ED8,100:020617" />
 
 </div>
