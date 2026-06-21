@@ -106,45 +106,6 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 
 <div align="center">
 
-## ⚙️ Tecnologías principales
-
-</div>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/NestJS-020617?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/Angular-020617?style=for-the-badge&logo=angular&logoColor=DD0031" />
-  <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Flutter-020617?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Redis-020617?style=for-the-badge&logo=redis&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Cloudflare-020617?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏗️ Lo que he construido
 
 </div>
@@ -269,20 +230,6 @@ He trabajado con sistemas relacionados con **facturación electrónica, procesam
 <p align="center">
   Aevoryka es mi espacio para construir soluciones web, sistemas personalizados, plataformas administrativas y productos digitales enfocados en resolver necesidades reales.
 </p>
-
----
-
-<div align="center">
-
-## 📌 Actualmente fortaleciendo
-
-</div>
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=850&lines=Arquitectura+backend+limpia+y+escalable;Microservicios+y+servicios+distribuidos;Docker%2C+Linux+y+despliegues+en+produccion;Kubernetes+y+fundamentos+DevOps;CI%2FCD+e+infraestructura+moderna" />
-
-</div>
 
 ---
 
