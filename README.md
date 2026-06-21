@@ -1,20 +1,20 @@
-<!-- Profile README | Leonardo Dorado -->
+<!-- Profile README | Leonardo Dorado Martínez -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:1D4ED8,100:06B6D4&text=Leonardo%20Dorado&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Backend%20%7C%20DevOps%20%7C%20Aevoryka&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:1D4ED8,100:06B6D4&text=Leonardo%20Dorado%20Mart%C3%ADnez&fontColor=FFFFFF&fontSize=38&fontAlignY=36&desc=Full%20Stack%20Software%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20Backend%20%26%20Integrations&descAlignY=58&descSize=15" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Construyendo+sistemas+web+reales;Frontend+%2B+Backend+%2B+DevOps;APIs%2C+dashboards%2C+POS+e+infraestructura;Docker+%2B+Linux+%2B+Kubernetes+%2B+Cloudflare;Transformando+ideas+en+productos+digitales" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Desarrollador+Full+Stack;Construyendo+plataformas+web+y+moviles;Backend%2C+APIs%2C+microservicios+e+integraciones;Angular+%2B+NestJS+%2B+Node.js+%2B+Flutter;Docker+%2B+Cloudflare+%2B+produccion" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ldorado360">
+  <a href="https://github.com/Leonardoodm">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ldorado360@gmail.com">
+  <a href="mailto:ldmartinez365@gmail.com">
     <img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leonardddorado/">
@@ -33,47 +33,46 @@
 
 </div>
 
-Soy desarrollador **Fullstack** enfocado en crear aplicaciones web funcionales, escalables y listas para producción.
+Soy **Desarrollador de Software Full Stack** con experiencia construyendo plataformas web y móviles para operación, facturación, gestión interna, automatización de procesos e integración de servicios externos.
 
-Me gusta construir sistemas que no solo se vean bien, sino que también tengan una arquitectura clara, una base sólida en backend, flujos de negocio bien pensados y una infraestructura preparada para crecer.
+Me enfoco en desarrollar soluciones completas: desde la interfaz del usuario, hasta la lógica de negocio, APIs, bases de datos, integraciones, despliegue e infraestructura.
 
-Actualmente trabajo y aprendo sobre desarrollo de software desde una visión completa:
-**frontend, backend, bases de datos, APIs, despliegue, servidores, Docker, Linux, Cloudflare y Kubernetes.**
+He trabajado con sistemas relacionados con **facturación electrónica, procesamiento de pagos, validación documental, firma electrónica, microservicios, aplicaciones móviles, inventarios, tickets, trazabilidad, geolocalización y plataformas administrativas**.
 
 ---
 
 <div align="center">
 
-## 🚀 En qué me enfoco
+## 🚀 Áreas de experiencia
 
 </div>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Frontend</h3>
+      <h3 align="center">Backend & APIs</h3>
       <p align="center">
-        Interfaces modernas, dashboards, paneles administrativos, componentes reutilizables, formularios, tablas, filtros y experiencia de usuario.
+        Desarrollo de APIs REST y GraphQL, lógica de negocio, autenticación, validaciones, microservicios e integración con servicios externos.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Backend</h3>
+      <h3 align="center">Frontend Web</h3>
       <p align="center">
-        APIs REST, autenticación, autorización, roles, permisos, validaciones, integraciones, modelos de datos y lógica de negocio.
+        Construcción de interfaces administrativas, formularios, dashboards, flujos operativos, componentes reutilizables y experiencias responsivas.
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">DevOps</h3>
+      <h3 align="center">Mobile</h3>
       <p align="center">
-        Docker, Linux, Nginx, Cloudflare Tunnel, VPS, variables de entorno, logs, despliegues y flujos de producción.
+        Desarrollo de aplicaciones móviles con Flutter, consumo de APIs, control horario, visitas a clientes, rutas y rastreo GPS.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Productos digitales</h3>
+      <h3 align="center">DevOps & Producción</h3>
       <p align="center">
-        POS, inventarios, ventas, órdenes de compra, reportes, cashback, herramientas internas y plataformas administrativas.
+        Docker, Docker Compose, Cloudflare, despliegues en producción, configuración de entornos, servicios web e infraestructura base.
       </p>
     </td>
   </tr>
@@ -88,39 +87,78 @@ Actualmente trabajo y aprendo sobre desarrollo de software desde una visión com
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,angular,react,html,css,tailwind,bootstrap,mongodb,postgres,mysql,prisma,docker,kubernetes,nginx,linux,git,github,githubactions,cloudflare,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,angular,flutter,php,html,css,sass,mongodb,mysql,redis,docker,cloudflare,git,github,vscode" />
 </p>
 
 ---
 
 <div align="center">
 
-## 🏗️ Lo que construyo
+## 🏗️ Lo que he construido
 
 </div>
-
-<p align="center">
-  Me gusta crear soluciones completas: desde la interfaz que usa el usuario, hasta la lógica del backend, la base de datos y el despliegue en producción.
-</p>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🧾 Sistemas POS</h3>
+      <h3>🧾 Plataformas operativas</h3>
       <p>
-        Ventas, inventarios, clientes, productos, pagos, cortes, reportes y administración.
+        Sistemas internos para ventas, inventarios, gestión de procesos, seguimiento de solicitudes, trazabilidad y administración.
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>📊 Dashboards</h3>
+      <h3>🔌 Integraciones externas</h3>
       <p>
-        Paneles administrativos, métricas, tablas, filtros, acciones y flujos internos.
+        Integraciones con servicios de facturación, pagos, validación documental, mapas, APIs externas y automatización de procesos.
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>🔐 Backends</h3>
+      <h3>📱 Aplicaciones móviles</h3>
       <p>
-        APIs, seguridad, permisos, roles, autenticación, validaciones e integraciones.
+        Apps móviles para operación en campo, rutas, visitas a clientes, control horario y consumo de servicios mediante APIs.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔎 Experiencia destacada
+
+</div>
+
+<p align="center">
+  Algunos de los proyectos y módulos en los que he participado incluyen:
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Facturación y pagos</h3>
+      <p align="center">
+        Módulos de ventas, facturación electrónica ante el SAT, integración con SW Sapien y procesamiento de pagos con Mercado Pago.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Validación documental</h3>
+      <p align="center">
+        Flujos para alta de usuarios, validación de documentos con AWS Textract y firma electrónica de contratos mediante eFirma.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Microservicios y rendimiento</h3>
+      <p align="center">
+        Arquitecturas con NestJS, estrategias de caché con Redis y optimización de módulos de alta demanda.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Geolocalización y trazabilidad</h3>
+      <p align="center">
+        Sistemas con evidencia fotográfica, georreferenciación, rutas, rastreo GPS y control de acceso por roles.
       </p>
     </td>
   </tr>
@@ -141,19 +179,19 @@ Actualmente trabajo y aprendo sobre desarrollo de software desde una visión com
 </p>
 
 <p align="center">
-  Aevoryka es mi espacio para crear soluciones web, sistemas personalizados, plataformas administrativas y productos digitales enfocados en negocios reales.
+  Aevoryka es mi espacio para construir soluciones web, sistemas personalizados, plataformas administrativas y productos digitales enfocados en resolver necesidades reales.
 </p>
 
 ---
 
 <div align="center">
 
-## 📌 Actualmente aprendiendo y mejorando
+## 📌 Actualmente fortaleciendo
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=900&lines=Arquitectura+backend+limpia+y+escalable;Buenas+practicas+con+Docker+y+Linux;Kubernetes+y+fundamentos+DevOps;CI%2FCD+y+automatizacion+de+despliegues;Infraestructura+para+aplicaciones+reales" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=900&lines=Arquitectura+backend+limpia+y+escalable;Microservicios+y+servicios+distribuidos;Docker%2C+Linux+y+despliegues+en+produccion;Kubernetes+y+fundamentos+DevOps;CI%2FCD+e+infraestructura+moderna" />
 </p>
 
 ---
@@ -165,15 +203,15 @@ Actualmente trabajo y aprendo sobre desarrollo de software desde una visión com
 </div>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ldorado360&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ldorado360&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8" />
+  <img height="170" src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=1D4ED8&currStreakLabel=38BDF8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldorado360&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
 </p>
 
 ---
@@ -185,15 +223,18 @@ Actualmente trabajo y aprendo sobre desarrollo de software desde una visión com
 </div>
 
 <p align="center">
-  Abierto a crear sistemas web, dashboards, APIs, herramientas internas, plataformas administrativas y soluciones listas para producción.
+  Abierto a colaborar en desarrollo de software, plataformas web, aplicaciones móviles, APIs, integraciones, sistemas internos y soluciones listas para producción.
 </p>
 
 <p align="center">
-  <a href="mailto:ldorado360@gmail.com">
-    <img src="https://img.shields.io/badge/Construyamos%20algo-1D4ED8?style=for-the-badge&logo=rocket&logoColor=white" />
+  <a href="mailto:ldmartinez365@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20correo-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leonardddorado/">
     <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aevoryka.com/">
+    <img src="https://img.shields.io/badge/Ver%20sitio%20web-020617?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
   </a>
 </p>
 
